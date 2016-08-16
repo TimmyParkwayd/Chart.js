@@ -1,7 +1,7 @@
 {
   "name": "chartBower",
   "description": "Simple HTML5 charts using the canvas element.",
-  "main": "dist/chart.js",
+  "main": "./dist/chart.js",
   "authors": [
     "dimitri <timmy.parkwayd@gmail.com>"
   ],
