@@ -8,7 +8,8 @@
   "license": "MIT",
   "keywords": [
     "chart",
-    "bower"
+    "bower",
+    "javascript"
   ],
   "homepage": "https://github.com/TimmyParkwayd/Chart.js",
   "ignore": [
